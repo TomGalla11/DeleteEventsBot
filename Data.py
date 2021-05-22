@@ -22,7 +22,7 @@ class Data:
         START += f"\n\nBy @MysteryBots ♥"
 
     # About Message
-    ABOUT = "**About This Bot** \n\nThis is an open source delete events bot by @MysteryBots \n\nSource : [Click Here](https://github.com/MysteryBots/DeleteEventsBot) \n\nFramework : [Pyrogram](docs.pyrogram.org) \n\nLanguage : [Python](www.python.org) \n\nDeveloper : [Mყʂƚҽɾყ Bσყ](https://t.me/MysteryxD)"
+    ABOUT = "**About This Bot** \n\nThis is an bot that deleted leaving and entry messages."
 
     if Config.OWNER_ID != 0:
         if Config.OWNER_NAME:

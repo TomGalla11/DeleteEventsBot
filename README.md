@@ -39,7 +39,7 @@ Telegram bot to delete service messages in groups.
 ## Usage
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MysteryBots/DeleteEventsBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TomGalla11/DeleteEventsBot)
 
 1) Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN`. Alternatively fill `OWNER_ID` and `OWNER_NAME`. 
 Note : Fill both or leave both unless bot won't work.

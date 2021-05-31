@@ -22,7 +22,7 @@ class Data:
         START += f"\n\nBy @MysteryBots ♥"
 
     # About Message
-    ABOUT = "**About This Bot** \n\nThis is an bot that deleted leaving and entry messages."
+    ABOUT = "**About This Bot** \n\nThis is an bot that deleted leaving and entry messages.\n\n **My Awesome Supporter:**\n@mrwolf_real"
 
     if Config.OWNER_ID != 0:
         if Config.OWNER_NAME:
